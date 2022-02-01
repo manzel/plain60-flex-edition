@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name plain60-cache)(type Legacy)(uri ${KIPRJMOD}/plain60-cache.lib)(options "")(descr ""))
-)
