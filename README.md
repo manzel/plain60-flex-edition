@@ -1,5 +1,5 @@
 # Plain60 MKD Edition
-This 60% PCB is a modified version of Plain60 Flex Edition rev2.2 by [evyd13](https://github.com/evyd13).
+This 60% PCB is a modified version of [Plain60 Flex Edition](https://github.com/evyd13/plain60-flex-edition) rev2.2 by [evyd13](https://github.com/evyd13).
 
 In the German keyboard community (MKD), we were looking for a universal (in the sense of board compatibility, not layout support) flexible PCB supporting all of our 60% boards. As this was not available, we used a Plain60 Flex Edition as basis, removed some holes (layout options, that is) we deemed unnecessary, and added some in other places (cutouts). The result of this is the Plain60 MKD Edition available here.
 
