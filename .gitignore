@@ -24,7 +24,8 @@
 
 # Exported BOM files
 **/*.xml
-**/*.csv
+# do not exclude SMT files
+# **/*.csv
 
 # New KiCAD 6 backup folders
 **/*backups/*
